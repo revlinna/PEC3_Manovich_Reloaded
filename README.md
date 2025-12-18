@@ -1,10 +1,10 @@
 # Manovich: Medios aún por inventar
-- Polina Zvereva
-- 3r semestre / Curso 2025-2026
-- Cultura Digital / Grado de Multimedia
-- PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.
-- Profesor colaborador: Miguel Gea Megías
-- Entrega: 18/12/2025
+> Polina Zvereva  
+> 3r semestre / Curso 2025-2026  
+> Cultura Digital / Grado de Multimedia  
+> PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.  
+> Profesor colaborador: Miguel Gea Megías  
+> Entrega: 18/12/2025  
 
 El ordenador, descrito por Lev Manovich como un metamedio, ha englobado una multitud de medios existentes y aún por inventar, junto a adaptar la variedad de técnicas de su manipulación. Cierto que con el avance de la tecnología de software aparecen nuevos métodos de creación, autoría, edición y remezcla que expanden el ordenador como metamedio. No obstante, su evolución no se define únicamente por este proceso de adición. Otra fase evolutiva del ordenador es la hibridación. Cuando tantos procesos de trabajo empiezan a coexistir en un mismo espacio, es natural que con el tiempo comiencen a mezclarse y generar nuevas formas de creación. Conviene subrayar que no se trata de una simple convivencia de distintos medios, donde cada uno conserva su autonomía sin influirse realmente. Aquí se trata de una fusión profunda, capaz de dar origen a un concepto que antes no existía y que no puede reproducirse con medios analógicos sin el papel crucial del ordenador como metamedio. 
 
@@ -52,5 +52,9 @@ La importancia de reconocer estos elementos comunes se refuerza por la idea cent
 - ‘Detroit Become Human : 1st Assistant director on Motion Capture & Performance capture shooting’ (2025) *Geoffrey Grandseigne Blog*, 18 de junio. Disponible en: https://www.artstation.com/artwork/BkWZPA
 - ‘When Was 3D Printing Invented? The History of 3D Printing’ (2020) *BCN3D Blog*, 15 de mayo. Disponible en: https://bcn3d.com/the-history-of-3d-printing-when-was-3d-printing-invented/
 - Owen, J. (2024) *How does a 3D Printer work?*, 11 de octubre. Disponible en: https://youtu.be/f94CnlQ0eq4?si=oL_-SHauJnY0VQUC
+### Imágenes
 - TUFKAC (2022) *Detroit: Become Human (2020)*, agosto 2022 - SteamGridDB. Disponible en: https://www.steamgriddb.com/hero/58952
 - Fernandez, B. (2020) *TECNOLOGÍA DE IMPRESIÓN 3D*, mayo 2020 - Utopia. Disponible en: https://utopiapy.com/tecnologia-3d/ 
+
+## Licencia
+Al recurso se otorga la licencia CC-BY-NC-SA 4.0
