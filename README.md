@@ -6,6 +6,8 @@
 > Profesor colaborador: Miguel Gea Megías  
 > Entrega: 18/12/2025  
 
+## Introducción
+
 El ordenador, descrito por Lev Manovich como un metamedio, ha englobado una multitud de medios existentes y aún por inventar, junto a adaptar la variedad de técnicas de su manipulación. Cierto que con el avance de la tecnología de software aparecen nuevos métodos de creación, autoría, edición y remezcla que expanden el ordenador como metamedio. No obstante, su evolución no se define únicamente por este proceso de adición. Otra fase evolutiva del ordenador es la hibridación. Cuando tantos procesos de trabajo empiezan a coexistir en un mismo espacio, es natural que con el tiempo comiencen a mezclarse y generar nuevas formas de creación. Conviene subrayar que no se trata de una simple convivencia de distintos medios, donde cada uno conserva su autonomía sin influirse realmente. Aquí se trata de una fusión profunda, capaz de dar origen a un concepto que antes no existía y que no puede reproducirse con medios analógicos sin el papel crucial del ordenador como metamedio. 
 
 **La hibridación es la creación de una nueva especie de medio, en el que varios elementos anteriormente independientes (foto, vídeo, texto) se integran a nivel de código informático**. A veces, puede resultar confuso distinguir una verdadera hibridación de un caso de multimedia o de remediación. Para diferenciarlos, deberíamos prestar atención a la relación que se establece entre los medios involucrados. En la multimedia, cada elemento mantiene su identidad aunque se encuentren uno al lado de otro en un mismo entorno, como en el caso de vídeo, audio y texto en un videoclip. La remediación, en cambio, representa una continuación lógica de la evolución de los medios, donde se reinterpreta su forma y sus elementos originales. No surge un medio nuevo, sino una versión renovada del anterior. Por ejemplo, un periódico digital conserva la estructura y significado del periódico impreso, simplemente lo traslada al entorno de software. 
@@ -55,6 +57,9 @@ La importancia de reconocer estos elementos comunes se refuerza por la idea cent
 ### Imágenes
 - TUFKAC (2022) *Detroit: Become Human (2020)*, agosto 2022 - SteamGridDB. Disponible en: https://www.steamgriddb.com/hero/58952
 - Fernandez, B. (2020) *TECNOLOGÍA DE IMPRESIÓN 3D*, mayo 2020 - Utopia. Disponible en: https://utopiapy.com/tecnologia-3d/ 
+
+## Uso de IA
+En el desarrollo del recurso se ha usado la herramienta de inteligéncia artificial GPT-5.2 para la supervisión sintáctica y de redacción.
 
 ## Licencia
 Al recurso se otorga la licencia CC-BY-NC-SA 4.0
