@@ -45,9 +45,9 @@ La importancia de reconocer estos elementos comunes se refuerza por la idea cent
 
 ## Recursos
 
-- Manovich, L. (2013) El software toma el mando. Barcelona: Editorial UOC.
-- ‘Síntesis: El software toma el mando’ (2016) Educomuniquemos UNED Blog, 22 de diciembre. Disponible en: https://educomuniquemosuned.wordpress.com/2016/12/22/sintesis-el-software-toma-el-mando/ (Consultado: 11 de diciembre de 2025)
-- ‘Remediación, multimedia e hibridación de los medios’ (2014) Fundamentos y evolución de la multimedia - Grado de Multimedia, 16 de abril. Disponible en: https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ (Consultado: 13 de diciembre de 2025)
-- ‘Detroit Become Human : 1st Assistant director on Motion Capture & Performance capture shooting’ (2025) Geoffrey Grandseigne Blog, 18 de junio. Disponible en: https://www.artstation.com/artwork/BkWZPA
-- ‘When Was 3D Printing Invented? The History of 3D Printing’ (2020) BCN3D Blog, 15 de mayo. Disponible en: https://bcn3d.com/the-history-of-3d-printing-when-was-3d-printing-invented/
-- Owen, J. (2024) How does a 3D Printer work?, 11 de octubre. Disponible en: https://youtu.be/f94CnlQ0eq4?si=oL_-SHauJnY0VQUC
+- Manovich, L. (2013) *El software toma el mando*. Barcelona: Editorial UOC.
+- ‘Síntesis: El software toma el mando’ (2016) *Educomuniquemos UNED Blog*, 22 de diciembre. Disponible en: https://educomuniquemosuned.wordpress.com/2016/12/22/sintesis-el-software-toma-el-mando/ (Consultado: 11 de diciembre de 2025)
+- ‘Remediación, multimedia e hibridación de los medios’ (2014) *Fundamentos y evolución de la multimedia - Grado de Multimedia*, 16 de abril. Disponible en: https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ (Consultado: 13 de diciembre de 2025)
+- ‘Detroit Become Human : 1st Assistant director on Motion Capture & Performance capture shooting’ (2025) *Geoffrey Grandseigne Blog*, 18 de junio. Disponible en: https://www.artstation.com/artwork/BkWZPA
+- ‘When Was 3D Printing Invented? The History of 3D Printing’ (2020) *BCN3D Blog*, 15 de mayo. Disponible en: https://bcn3d.com/the-history-of-3d-printing-when-was-3d-printing-invented/
+- Owen, J. (2024) *How does a 3D Printer work?*, 11 de octubre. Disponible en: https://youtu.be/f94CnlQ0eq4?si=oL_-SHauJnY0VQUC
